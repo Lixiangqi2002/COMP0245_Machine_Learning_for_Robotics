@@ -1,0 +1,13 @@
+MLP Correction batch_size:
+Trajectory MSE - {64}: 0.00036521468167227434
+Training Time: 10.329652786254883
+Average Training Loss (last 100 epochs) for batch_size={64}: 0.00011777697272236765 
+Trajectory MSE - {128}: 0.0003244390015273401
+Training Time: 6.635421276092529
+Average Training Loss (last 100 epochs) for batch_size={128}: 0.0004067521580327593 
+Trajectory MSE - {256}: 0.00045779782884503115
+Training Time: 5.294342517852783
+Average Training Loss (last 100 epochs) for batch_size={256}: 0.0011419497374299682 
+Trajectory MSE - {1000}: 0.0006487805421451491
+Training Time: 4.114787340164185
+Average Training Loss (last 100 epochs) for batch_size={1000}: 0.20080705493688583 

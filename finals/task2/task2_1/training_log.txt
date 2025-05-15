@@ -1,0 +1,50 @@
+##################################################
+Training time for Joint 1: 69.85 seconds
+Average GPU memory usage for Joint 1: 145.74 MiB
+Average GPU used percentage for Joint 1: 27.49%
+Average CPU used percentage for Joint 1: 94.75%
+Average memory percentage for Joint 1: 5.78%
+Average memory usage for Joint 1: 905.36 MiB
+--------------------------------------------------
+Training time for Joint 2: 71.12 seconds
+Average GPU memory usage for Joint 2: 146.00 MiB
+Average GPU used percentage for Joint 2: 27.77%
+Average CPU used percentage for Joint 2: 95.36%
+Average memory percentage for Joint 2: 6.64%
+Average memory usage for Joint 2: 1040.75 MiB
+--------------------------------------------------
+Training time for Joint 3: 70.77 seconds
+Average GPU memory usage for Joint 3: 146.00 MiB
+Average GPU used percentage for Joint 3: 27.80%
+Average CPU used percentage for Joint 3: 94.73%
+Average memory percentage for Joint 3: 6.66%
+Average memory usage for Joint 3: 1043.61 MiB
+--------------------------------------------------
+Training time for Joint 4: 71.10 seconds
+Average GPU memory usage for Joint 4: 146.00 MiB
+Average GPU used percentage for Joint 4: 27.80%
+Average CPU used percentage for Joint 4: 95.28%
+Average memory percentage for Joint 4: 6.73%
+Average memory usage for Joint 4: 1053.50 MiB
+--------------------------------------------------
+Training time for Joint 5: 70.71 seconds
+Average GPU memory usage for Joint 5: 146.00 MiB
+Average GPU used percentage for Joint 5: 27.82%
+Average CPU used percentage for Joint 5: 94.69%
+Average memory percentage for Joint 5: 6.74%
+Average memory usage for Joint 5: 1055.75 MiB
+--------------------------------------------------
+Training time for Joint 6: 69.13 seconds
+Average GPU memory usage for Joint 6: 146.00 MiB
+Average GPU used percentage for Joint 6: 27.96%
+Average CPU used percentage for Joint 6: 94.84%
+Average memory percentage for Joint 6: 6.79%
+Average memory usage for Joint 6: 1063.25 MiB
+--------------------------------------------------
+Training time for Joint 7: 73.08 seconds
+Average GPU memory usage for Joint 7: 146.00 MiB
+Average GPU used percentage for Joint 7: 27.93%
+Average CPU used percentage for Joint 7: 95.22%
+Average memory percentage for Joint 7: 6.77%
+Average memory usage for Joint 7: 1060.95 MiB
+--------------------------------------------------

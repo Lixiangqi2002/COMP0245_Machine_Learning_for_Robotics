@@ -1,0 +1,16 @@
+MLP Correction learning_rate:
+Trajectory MSE - {1}: 0.01585647331324964
+Training Time: 16.845914840698242
+Average Training Loss (last 100 epochs) for learning_rate={1}: 46.51392176747322 
+Trajectory MSE - {0.1}: 0.00030347859832115535
+Training Time: 16.333059310913086
+Average Training Loss (last 100 epochs) for learning_rate={0.1}: 0.026294077108471186 
+Trajectory MSE - {0.01}: 0.0003695408159706808
+Training Time: 16.361409902572632
+Average Training Loss (last 100 epochs) for learning_rate={0.01}: 0.0012431410234765394 
+Trajectory MSE - {0.001}: 0.0003447658124316035
+Training Time: 16.264518976211548
+Average Training Loss (last 100 epochs) for learning_rate={0.001}: 0.00020404771055083871 
+Trajectory MSE - {0.0001}: 0.0003103050692972649
+Training Time: 16.178797245025635
+Average Training Loss (last 100 epochs) for learning_rate={0.0001}: 3.281327624719665e-05 

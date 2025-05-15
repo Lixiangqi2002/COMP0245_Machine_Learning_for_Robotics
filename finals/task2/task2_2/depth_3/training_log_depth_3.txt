@@ -1,0 +1,37 @@
+##################################################
+Depth: 3 
+Training time for Joint 1: 0.10 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Training time for Joint 2: 0.06 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Training time for Joint 3: 0.09 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Training time for Joint 4: 0.07 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Training time for Joint 5: 0.08 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Training time for Joint 6: 0.08 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Training time for Joint 7: 0.08 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------

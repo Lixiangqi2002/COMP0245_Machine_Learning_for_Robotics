@@ -1,0 +1,13 @@
+MLP Correction hidden_nodes:
+Trajectory MSE - {32}: 0.00023592214478605178
+Training Time: 20.342711210250854
+Average Training Loss (last 100 epochs) for hidden_nodes={32}: 3.506594984315825e-05 
+Trajectory MSE - {64}: 0.00028921348467145724
+Training Time: 21.277814626693726
+Average Training Loss (last 100 epochs) for hidden_nodes={64}: 3.007648357019832e-05 
+Trajectory MSE - {96}: 0.00033910641324318543
+Training Time: 22.66781449317932
+Average Training Loss (last 100 epochs) for hidden_nodes={96}: 5.67862837986155e-05 
+Trajectory MSE - {128}: 0.00028898892772288496
+Training Time: 24.19797945022583
+Average Training Loss (last 100 epochs) for hidden_nodes={128}: 7.960589600475743e-05 

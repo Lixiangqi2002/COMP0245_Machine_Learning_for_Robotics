@@ -1,0 +1,362 @@
+##################################################
+Depth: 8 
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.03 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.02 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.02 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
+##################################################
+Prediction time for Joint 1: 0.01 seconds
+Average CPU used percentage for Joint 1: 0.00%
+Average memory percentage for Joint 1: 0.00%
+Average memory usage for Joint 1: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 2: 0.01 seconds
+Average CPU used percentage for Joint 2: 0.00%
+Average memory percentage for Joint 2: 0.00%
+Average memory usage for Joint 2: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 3: 0.01 seconds
+Average CPU used percentage for Joint 3: 0.00%
+Average memory percentage for Joint 3: 0.00%
+Average memory usage for Joint 3: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 4: 0.01 seconds
+Average CPU used percentage for Joint 4: 0.00%
+Average memory percentage for Joint 4: 0.00%
+Average memory usage for Joint 4: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 5: 0.01 seconds
+Average CPU used percentage for Joint 5: 0.00%
+Average memory percentage for Joint 5: 0.00%
+Average memory usage for Joint 5: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 6: 0.01 seconds
+Average CPU used percentage for Joint 6: 0.00%
+Average memory percentage for Joint 6: 0.00%
+Average memory usage for Joint 6: 0.00 MiB
+--------------------------------------------------
+Prediction time for Joint 7: 0.01 seconds
+Average CPU used percentage for Joint 7: 0.00%
+Average memory percentage for Joint 7: 0.00%
+Average memory usage for Joint 7: 0.00 MiB
+--------------------------------------------------
